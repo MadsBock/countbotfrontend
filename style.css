@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #353535;
+}
+
+#App {
+    background-color: #353535;
+    color: white;
+    margin: auto;
+    text-align: center;
+}
+
+h2 {
+    font-size: 8em;
+    padding:50px;
+    padding-bottom: 0;
+}
+
+i {
+    margin-bottom:40px;
+    display: inline-block;
+}
+
+h3 {
+    padding: 5px;
+}
+
+table {
+    display: inline-block;
+    text-align: left;
+}
+
+td {
+    padding: 5px;
+}
+
+th {
+    padding: 5px;
+}
